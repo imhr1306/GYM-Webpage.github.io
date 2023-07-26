@@ -21,7 +21,7 @@ Project is live [Here](https://imhr1306.github.io/Gym-Webpage/)
 
 Download or clone the repository
 
-git clone : [Click Here](https://github.com/imhr1306/Gym-Webpage/archive/refs/heads/main.zip)
+git clone : [Click Here](https://github.com/imhr1306/Gym-Webpage.git)
 
 Go to the directory
 
